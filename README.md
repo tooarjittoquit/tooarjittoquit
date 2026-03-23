@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tooarjittoquit
-- 👀 I’m interested in learning more about Web Development and Human Computer Interaction. 
-- 🌱 I’m currently learning Front-End development.
-- 💞️ I’m looking to collaborate on projects where I can provide design direction.
-- 📫 How to reach me - 
+- I’m currently learning about how to integrate AI into my design workflow.
+- I’m currently based out of Toronto. 
+- My background spans experience design, applied strategy, and teaching—allowing me to operate comfortably with senior leaders, cross-functional teams, and partners in complex, evolving environments. 
 
 <!---
 tooarjittoquit/tooarjittoquit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
